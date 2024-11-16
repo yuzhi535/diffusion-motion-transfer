@@ -3,8 +3,8 @@ seed: null
 output_path: 'results/locomotive_car'
 data_path: 'data/locomotive'
 latents_path: 'data/locomotive/ddim_latents'
-source_prompt: "Amazing quality, masterpiece, A locomotive rides in a forest"
-target_prompt: "Amazing quality, masterpiece, A car driving in a forest"
+source_prompt: "Amazing quality, masterpiece, A flower vase is sitting on a porch stand."
+target_prompt: "Amazing quality, masterpiece, A squirrel admires a flower vase on a porch stand."
 negative_prompt: "bad quality, distortions, unrealistic, distorted image, watermark, signature"
 guidance_scale: 10
 
